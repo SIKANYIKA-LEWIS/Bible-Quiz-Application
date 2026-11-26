@@ -40,6 +40,4 @@ Check which JDK Maven is using with `.\mvnw.cmd -version` (Windows) or `./mvnw -
 
 Automated tests validate that the bundled question bank loads and that each question has the expected answer choices. They do not automate the JavaFX screens; use the manual steps above to test the UI.
 
-## Question sources
 
-The expanded question set is paraphrased from Bible passages and includes verse references in the question data. References were checked against the public-domain King James Version at [Bible Gateway](https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/), including passages from Genesis, Exodus, Judges, 1 Samuel, Daniel, Matthew, John, and Acts. The app does not need an internet connection to play.
